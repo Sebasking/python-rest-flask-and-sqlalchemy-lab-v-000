@@ -5,3 +5,4 @@ languages:
   - python
 resources: 0
 jupyter_notebook: true
+is_jupyter_lab: true
